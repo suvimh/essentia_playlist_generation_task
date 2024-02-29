@@ -21,10 +21,16 @@ extracted features from data/collection_analysis_output.json):
 run audio_analysis_with_essentia_suvi.py
 
 To plot data distribution plots:
-python plot_distributions_suvi.py 
+```
+python plot_distributions_suvi.py
+``` 
 
 To run descriptor query based application:
-streamlit run descriptor_based_app_suvi.py 
+```
+streamlit run descriptor_based_app_suvi.py
+```
 
 To run similarity based application:
-streamlit run similarity_based_app_suvi.py 
+```
+streamlit run similarity_based_app_suvi.py
+```
